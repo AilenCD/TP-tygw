@@ -1,5 +1,5 @@
 # TP-tygw
-Esta página web fue creada para una entrega de la materia Tecnología y gestión web de la Universidad tecnológica nacional.
+Esta página web fue creada para una entrega de la materia Tecnología y gestión web de la Universidad tecnológica nacional. Utilicé JavaScript, HTML y CSS.
 
 A continuación copio la consigna del trabajo práctico:
 
