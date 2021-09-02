@@ -14,7 +14,7 @@ y el nombre y apellido del alumno.
 ➢ La barra lateral izquierda contendrá un menú con links de las APIs de acceso público que van a mostrar. Al clickear el link, 
 deberá consumir la información de la API y reflejarla en el contenido principal.
 
-➢ En el pie de página se debe incluir el nombre de la materia junto a la fecha de realización.
+➢ En el pie de página se debe incluir el nombre de la materia junto al año de realización.
 
 <b>Página de inicio:</b>
 
